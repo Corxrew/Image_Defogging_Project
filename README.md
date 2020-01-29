@@ -1,5 +1,5 @@
 # Image-Defogging
-Image Defogging model using CNN
+Image Defogging model using CNN (Part of project)
 
 # Abstract
 I have implemented a daytime image dehazing method that finds the transmittance at each patch (and
